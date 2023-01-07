@@ -4,6 +4,7 @@ This project was created to detect a person's stress level. To detect the stress
 1. Humidity Value
 2. Body Temperature
 3. Number of Steps
+
 After inputting these variables, you can get the results of predicting stress levels consisting of 3 classes:
 - Low
 - Medium
