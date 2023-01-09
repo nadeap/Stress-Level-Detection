@@ -2,7 +2,6 @@ import numpy as np
 import pickle
 import streamlit as st  
 
-# loaded_model = pickle.load(open('stress_trained.sav','rb'))
 model = pickle.load(open('model.pkl','rb'))
 
 def stresslevel_prediction(input_data):
